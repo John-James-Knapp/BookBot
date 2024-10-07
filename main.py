@@ -1,5 +1,5 @@
 # To use this, create a directory in your root directory for storing text
-# you want analyzed. Then create a file containing the text. Then just change
+# you want analyzed. Then create a file containing the text in the directory you just made. Then just change
 # the book_path Var to the file location.
 def main():
     book_path = "books/frankenstein.txt"
